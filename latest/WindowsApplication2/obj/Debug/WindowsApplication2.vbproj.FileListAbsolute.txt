@@ -1,0 +1,10 @@
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+B:\VS\VB\OpenRW\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
